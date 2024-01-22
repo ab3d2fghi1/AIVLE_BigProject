@@ -30,10 +30,8 @@
 ### AI 구현 내용
 #### 1. 데이터 수집
 > <img src="https://github.com/ab3d2fghi1/AIVLE_BigProject/assets/104991721/742e3510-b04a-477f-a0c1-70bbb2a5cec6" width="40%" height="30%"></img>
->
-> https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71407
 > 
-> AI hub에서 제공되는 건설 현장 위험 상태 판단 데이터를 활용
+> AI hub에서 제공되는 [건설 현장 위험 상태 판단 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71407)를 활용
 
 #### 2. 모델링 계획
 > <img src="https://github.com/ab3d2fghi1/AIVLE_BigProject/assets/104991721/6a94bb88-f07c-4646-86f7-b93af61e025b" width="30%" height="20%"></img>
