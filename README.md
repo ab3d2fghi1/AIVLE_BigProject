@@ -1,4 +1,4 @@
-# [KT AIVLE School AI 4기 Big Project]
+# [KT AIVLE School AI 4기 Big Project] AI 모델링
 
 <img src="https://github.com/ab3d2fghi1/AIVLE_BigProject/assets/104991721/69fbfdb4-14d4-40d4-8317-c852b1956961" width="50%" height="50%"></img>
 
